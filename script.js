@@ -322,11 +322,11 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Date 💕',
+            text: 'Sholat eid with mom ',
             image: './images/photo1.jpg'
         },
         {
-            text: 'Birthday Moment 🎂',
+            text: 'spideer man bertopeng😱',
             image: './images/photo2.jpg'
         },
         {
@@ -338,7 +338,7 @@ function startPhotoShow() {
             image: './images/photo4.jpg'
         },
         {
-            text: 'Sweet Memories 🥰',
+            text: 'Gatau lagi ngapain',
             image: './images/photo5.jpg'
         },
         {
