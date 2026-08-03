@@ -616,7 +616,7 @@ function loadSpotifyPlaylist(playlistNumber) {
         },
         2: {
             // Ganti dengan playlist kedua kamu
-            embedUrl: 'https://open.spotify.com/playlist/7tsSoPBbfTSlbADs8xRpRH?si=m5sc9QmVT6uX6IXCgYVU4w&utm_source=whatsapp&pi=r-st1qRLQTavj',
+            embedUrl: 'https://open.spotify.com/playlist/7tsSoPBbfTSlbADs8xRpRH',
             name: 'idk Songs Collection',
             description: 'ga tau lagu apa ini '
         },
