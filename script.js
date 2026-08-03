@@ -334,7 +334,7 @@ function startPhotoShow() {
             image: './images/photo3.jpg'
         },
         {
-            text: 'Cozy Together ❤️',
+            text: '. JAMETTTTTTTT ❤️',
             image: './images/photo4.jpg'
         },
         {
